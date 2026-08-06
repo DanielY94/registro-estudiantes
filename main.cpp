@@ -16,3 +16,6 @@ void mostrarMenu() {
 bool validarCedula(string c) { return c.length() == 10; }
 
 // Refactor: Organizacion de prototipos de funciones al inicio
+
+// Banner visual de fin de programa
+void mostrarPie() { cout << "==============================\n" ; }
