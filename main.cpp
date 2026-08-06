@@ -6,3 +6,8 @@ void ingresarEstudiante() {
     string nombre;
     cout << "Ingrese nombre: " ;
 }
+
+// Modulo: Menu principal
+void mostrarMenu() {
+    cout << "1. Registrar\n2. Salir\n" ;
+}
