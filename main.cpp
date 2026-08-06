@@ -11,3 +11,6 @@ void ingresarEstudiante() {
 void mostrarMenu() {
     cout << "1. Registrar\n2. Salir\n" ;
 }
+
+// Correccion: Validacion de longitud de cedula a 10 digitos
+bool validarCedula(string c) { return c.length() == 10; }
