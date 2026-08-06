@@ -14,3 +14,5 @@ void mostrarMenu() {
 
 // Correccion: Validacion de longitud de cedula a 10 digitos
 bool validarCedula(string c) { return c.length() == 10; }
+
+// Refactor: Organizacion de prototipos de funciones al inicio
