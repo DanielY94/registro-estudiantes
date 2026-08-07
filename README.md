@@ -31,3 +31,5 @@ Proporcionar una solución automatizada para el registro de alumnos, asegurando 
 - `v1.2.0`: Refactorización de código, organización de funciones y mejoras visuales en consola.
 ## Autor
 Daniel Yugcha
+## Actualización
+- Se agrega rama de trabajo para desarrollo de nuevas funcionalidades.
