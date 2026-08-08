@@ -1,1 +1,3 @@
 === SISTEMA DE REGISTRO DE ESTUDIANTES ===
+1. Registrar nuevo estudiante
+2. Listar estudiantes registrados
