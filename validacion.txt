@@ -1,1 +1,2 @@
 === MODULO DE VALIDACION DE DATOS ===
+1. Validar que la cedula contenga 10 digitos numéricos
