@@ -1,2 +1,3 @@
 === MODULO DE VALIDACION DE DATOS ===
 1. Validar que la cedula contenga 10 digitos numéricos
+2. Validar que los campos de nombres no queden vacios
