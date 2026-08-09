@@ -1,1 +1,2 @@
 === MODULO DE BÚSQUEDA DE ESTUDIANTES ===
+1. Buscar registro por numero de cedula
