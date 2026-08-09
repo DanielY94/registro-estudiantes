@@ -1,0 +1,5 @@
+=== SISTEMA DE REGISTRO DE ESTUDIANTES ===
+1. Registrar nuevo estudiante
+2. Listar estudiantes registrados
+3. Buscar estudiante por cedula
+4. Salir
