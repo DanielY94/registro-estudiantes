@@ -1,4 +1,4 @@
-﻿# Sistema de Registro de Estudiantes
+﻿# MODULO DE VALIDACION - REGISTRO
 ## Descripción
 Este proyecto es un sistema interactivo en consola desarrollado en C++ para la gestión y validación de estudiantes dentro de un módulo de matriculación académica.
 ## Objetivo
