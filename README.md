@@ -33,4 +33,8 @@ Proporcionar una solución automatizada para el registro de alumnos, asegurando 
 Daniel Yugcha
 ## Actualización
 - Se agrega rama de trabajo para desarrollo de nuevas funcionalidades.
+<<<<<<< HEAD
 - Integrantes del equipo: Katherin Reyes 
+=======
+- Integrantes del equipo: Daniela Torres
+>>>>>>> d4e1c4f3db864baac2aef8737461c9e49c166143
